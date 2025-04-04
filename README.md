@@ -5,7 +5,7 @@ class LeandroMoraes {
     constructor() {
         this.name = "Leandro Moraes";
         this.education = "Redes de Computadores - Estácio";
-        this.techStack = ["JavaScript", "HTML", "CSS",];
+        this.techStack = ["JavaScript", "HTML", "CSS", "SQL",];
         this.currentFocus = "Arquitetura FrontEnd";
     }
  
