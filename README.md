@@ -2,7 +2,7 @@
 
 🎓 **Formação:** Redes de Computadores - Estácio  
 🖥️ **Stack:** PowerShell | Windows Server | Active Directory | SQL  
-🚀 **Foco atual:** Automação e Administração de Sistemas Windows 
+🚀 **Foco atual:** Automação e Administração de Sistemas e Servidores Windows 
 🧠 **Lema:** "Código Limpo > Código Inteligente"
 
 ---
@@ -15,7 +15,7 @@ class LeandroMoraes {
     this.name = "Leandro Moraes";
     this.education = "Redes de Computadores - Estácio";
     this.techStack = ["PowerShell", "Windows Server", "Active Directory", "SQL"];
-    this.currentFocus = "Automação e Administração de Sistemas Windows";
+    this.currentFocus = "Automação e Administração de Sistemas e Servidores Windows";
   }
 
   aboutMe() {
