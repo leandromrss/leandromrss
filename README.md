@@ -42,6 +42,9 @@ Modelos de relatórios desenvolvidos em Power BI com foco em análise e visualiz
 👥 Sistema-de-Cadastro-de-Colaboradores
 Aplicação de cadastro e gestão simples de colaboradores — ideal para protótipos e ambientes internos.
 
+🔧 OPNSense
+Instalação e Configuração de firewall em ambiente VMWare - Projetados para estudos e experimentação de rede.
+
 ---
 ```
 ## 📈 Estatísticas do GitHub
