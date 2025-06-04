@@ -2,7 +2,7 @@
 
 🎓 **Formação:** Redes de Computadores - Estácio  
 🖥️ **Stack:** PowerShell | Windows Server | Active Directory | SQL  
-🚀 **Foco atual:** Automação e Administração de Sistemas e Servidores Windows 
+🚀 **Foco atual:** Automação e Administração de Sistemas e Servidores Windows e Infraestrutura
 
 ---
 
