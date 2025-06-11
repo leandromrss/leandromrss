@@ -1,58 +1,52 @@
 # 👋 Olá! Eu sou o Leandro Moraes
 
-🎓 **Formação:** Redes de Computadores - Estácio  
-🖥️ **Stack:** PowerShell | Windows Server | Active Directory | SQL  
-🚀 **Foco atual:** Automação e Administração de Sistemas e Servidores Windows e Infraestrutura
+**Formação:** Redes de Computadores - Estácio  
+**Stack Tecnológica:** PowerShell | Windows Server | Active Directory | SQL  
+**Foco Atual:** Automação e Administração de Sistemas e Servidores Windows
 
 ---
 
-## 🧩 Sobre Mim
+## 🧑‍💻 Sobre Mim
 
-```javascript
-class LeandroMoraes {
-  constructor() {
-    this.name = "Leandro Moraes";
-    this.education = "Redes de Computadores - Estácio";
-    this.techStack = ["PowerShell", "Windows Server", "Active Directory", "SQL"];
-    this.currentFocus = "Automação e Administração de Sistemas e Servidores Windows";
-  }
-
-  aboutMe() {
-    return `
-    ${this.name}
-    ${this.education}
-    Stack: ${this.techStack.join(" | ")}
-    Focus: ${this.currentFocus}
-    ✨ Lema: "Código Limpo > Código Inteligente"
-    `;
-  }
-}
-
-const dev = new LeandroMoraes();
-console.log(dev.aboutMe());
-
-📂 Repositórios em Destaque
-🔧 Scripts
-Scripts em PowerShell voltados para automação de tarefas administrativas em ambientes Windows.
-
-📊 Relatorios-PowerBI
-Modelos de relatórios desenvolvidos em Power BI com foco em análise e visualização de dados operacionais.
-
-👥 Sistema-de-Cadastro-de-Colaboradores
-Aplicação de cadastro e gestão simples de colaboradores — ideal para protótipos e ambientes internos.
-
-🔧 OPNSense
-Instalação e Configuração de firewall em ambiente VMWare - Projetados para estudos e experimentação de rede.
+Sou profissional da área de TI com experiência em administração de sistemas Windows, automação de tarefas e gerenciamento de infraestrutura. Tenho me dedicado ao desenvolvimento de scripts e ferramentas para otimizar processos e melhorar a eficiência operacional.
 
 ---
-```
-## 📈 Estatísticas do GitHub
 
-<div align="center">
+## 📂 Meus Repositórios
 
-  <img src="https://github-readme-stats.vercel.app/api?username=leandromrss&show_icons=true&theme=radical" alt="Estatísticas do GitHub de Leandro" />
+- 🔧 **Scripts**  
+  Scripts em PowerShell voltados para automação de tarefas administrativas em ambientes Windows.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromrss&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+- 📊 **Relatorios-PowerBI**  
+  Modelos de relatórios desenvolvidos em Power BI com foco em análise e visualização de dados operacionais.
 
-</div>
+- 👥 **Sistema-de-Cadastro-de-Colaboradores**  
+  Aplicação de cadastro e gestão simples de colaboradores — ideal para protótipos e ambientes internos.
 
+- 🔧 **OPNSense**  
+  Instalação e configuração de firewall em ambiente VMWare - Projetados para estudos e experimentação de rede.
+
+- 🃏 **Super-Trunfo**  
+  Projeto de jogo estilo Super Trunfo (Ainda em desenvlvimento).
+
+---
+
+## 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <a href="https://github.com/leandromrss">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandromrss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromrss&layout=compact&langs_count=10&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📌 Contato
+
+- **LinkedIn:** [linkedin.com/in/leandro-moraes-91b775189](https://www.linkedin.com/in/leandro-moraes-91b775189)  
+- **Instagram:** [instagram.com/leandro_mrss](https://www.instagram.com/leandro_mrss)
+
+---
+
+> Este README é atualizado automaticamente para refletir meus projetos e estatísticas atuais.
