@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Leandro Moraes
 
-**Formação:** Redes de Computadores - Estácio  
-**Stack Tecnológica:** PowerShell | Windows Server | Active Directory | SQL  
-**Foco Atual:** Automação e Administração de Sistemas e Servidores Windows
+**🎓 Formação:** Redes de Computadores - Estácio  
+**🛠️ Stack Tecnológica:** PowerShell | Windows Server | Active Directory | SQL  
+**🚀 Foco Atual:** Automação e Administração de Sistemas e Servidores Windows
 
 ---
 
@@ -14,20 +14,20 @@ Sou profissional da área de TI com experiência em administração de sistemas 
 
 ## 📂 Meus Repositórios
 
-- 🔧 **Scripts**  
-  Scripts em PowerShell voltados para automação de tarefas administrativas em ambientes Windows.
+- 🔧 **[Scripts](https://github.com/leandromrss/Scripts)**  
+  Scripts em PowerShell voltados à automação de tarefas administrativas em ambientes Windows.
 
-- 📊 **Relatorios-PowerBI**  
-  Modelos de relatórios desenvolvidos em Power BI com foco em análise e visualização de dados operacionais.
+- 📊 **[Relatorios-PowerBI](https://github.com/leandromrss/Relatorios-PowerBI)**  
+  Modelos de relatórios desenvolvidos no Power BI com foco em análise e visualização de dados operacionais.
 
-- 👥 **Sistema-de-Cadastro-de-Colaboradores**  
-  Aplicação de cadastro e gestão simples de colaboradores — ideal para protótipos e ambientes internos.
+- 👥 **[Sistema-de-Cadastro-de-Colaboradores](https://github.com/leandromrss/Sistema-de-Cadastro-de-Colaboradores)**  
+  Aplicação simples para cadastro e gestão de colaboradores — ideal para protótipos e uso interno.
 
-- 🔧 **OPNSense**  
-  Instalação e configuração de firewall em ambiente VMWare - Projetados para estudos e experimentação de rede.
+- 🛡 **[OPNSense](https://github.com/leandromrss/OPNSense)**  
+  Instalação e configuração de firewall em ambiente VMWare — voltado para estudos e testes de rede.
 
-- 🃏 **Super-Trunfo**  
-  Projeto de jogo estilo Super Trunfo (Ainda em desenvlvimento).
+- 🃏 **[Super-Trunfo](https://github.com/leandromrss/Super-Trunfo)**  
+  Jogo estilo Super Trunfo com tema "Países" — em desenvolvimento.
 
 ---
 
@@ -35,8 +35,8 @@ Sou profissional da área de TI com experiência em administração de sistemas 
 
 <p align="center">
   <a href="https://github.com/leandromrss">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandromrss&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromrss&layout=compact&langs_count=10&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromrss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromrss&layout=compact&langs_count=10&theme=tokyonight" />
   </a>
 </p>
 
@@ -44,9 +44,9 @@ Sou profissional da área de TI com experiência em administração de sistemas 
 
 ## 📌 Contato
 
-- **LinkedIn:** [linkedin.com/in/leandro-moraes-91b775189](https://www.linkedin.com/in/leandro-moraes-91b775189)  
-- **Instagram:** [instagram.com/leandro_mrss](https://www.instagram.com/leandro_mrss)
+- 💼 **LinkedIn:** [linkedin.com/in/leandro-moraes-91b775189](https://www.linkedin.com/in/leandro-moraes-91b775189)  
+- 📸 **Instagram:** [instagram.com/leandro_mrss](https://www.instagram.com/leandro_mrss)
 
 ---
 
-> Este README é atualizado automaticamente para refletir meus projetos e estatísticas atuais.
+> ⚙️ Este README é atualizado regularmente para refletir meus projetos e estatísticas atuais.
