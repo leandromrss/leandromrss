@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Leandro Moraes
 
-**🎓 Formação:** Redes de Computadores - Estácio  
+**🎓 Formação:** Gestão da Tecnologia da Informação - Unianchieta  
 **🛠️ Stack Tecnológica:** PowerShell | Windows Server | Active Directory | SQL  
 **🚀 Foco Atual:** Automação e Administração de Sistemas e Servidores Windows
 
